@@ -1,0 +1,11 @@
+this 
+is 
+my
+chance
+to 
+get
+out 
+of
+the
+mudfarewell git commit -amadds additiional text to text1.txt echo oh hey didn't see you there git add hello-again.txt git commit -m creates additional greeting file
+farewell git commit -amadds additiional text to text1.txt echo oh hey didn't see you there git add hello-again.txt git commit -m creates additional greeting file
